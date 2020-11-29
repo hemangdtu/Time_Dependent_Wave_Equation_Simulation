@@ -27,7 +27,7 @@ Discrete quantized wave vectors are required to solve the Time-Dependent equatio
 Finally, the last item the time dependent Schrödinger equation depends on is C<sub>n</sub>, the expansion coefficient that changes the probability amplitude. The indefinite integral of the complex conjugate of eigenstate wave function and the initial wave function with respect to the spatial dimension x,<br>
 <img src = "https://github.com/hemangdtu/Time_Dependent_Wave_Equation_Simulation/blob/main/Images/Cn%20function.png">
 
-Thus the final result that we can obtain by combining the expressions for ψn(x), En and C<sub>n</sub> is,<br>
+Thus the final result that we can obtain by combining the expressions for ψ<sub>n</sub>(x), E<sub>n</sub> and C<sub>n</sub> is,<br>
 <img src = "https://github.com/hemangdtu/Time_Dependent_Wave_Equation_Simulation/blob/main/Images/psi%20function.png">
 
 Now, as t increases the wave equation is determined.
