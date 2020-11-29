@@ -31,3 +31,13 @@ Thus the final result that we can obtain by combining the expressions for ψn(x)
 <img src = "https://github.com/hemangdtu/Time_Dependent_Wave_Equation_Simulation/blob/main/Images/psi%20function.png">
 
 Now, as t increases the wave equation is determined.
+
+#### Simulation
+<img src = "https://github.com/hemangdtu/Time_Dependent_Wave_Equation_Simulation/blob/main/Sample%20Simulation.gif">
+
+#### Conclusion
+Following are the conclusions that we can derive after gaining the simulation and mathematical solution of the wave equation,
+<UL>
+<LI>The mathematical result for the solution of the wave equation turned out to be a complex value consisting of a real and an imaginary part.</LI>
+<LI>We plotted the absolute values, real values and imaginary values on the plot plane and used pause() function available in matplotlib Python Library to obtain a simulation out of continuous plotting of the results.</LI>
+<UL>
